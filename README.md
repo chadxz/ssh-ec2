@@ -43,7 +43,6 @@ OR
 
 Something similar depending on your setup
 
-
-###License
+### License
 
 MIT
